@@ -1,0 +1,1733 @@
+{
+  name: "Colleges of the Fenway - Fenway at Avenue Louis Pasteur",
+  short_name: "B32006",
+  station_id: "3"
+}, {
+  name: "Tremont St at E Berkeley St",
+  short_name: "C32000",
+  station_id: "4"
+}, {
+  name: "Northeastern University - North Parking Lot",
+  short_name: "B32012",
+  station_id: "5"
+}, {
+  name: "Cambridge St at Joy St",
+  short_name: "D32000",
+  station_id: "6"
+}, {
+  name: "Fan Pier",
+  short_name: "A32000",
+  station_id: "7"
+}, {
+  name: "Union Square - Brighton Ave at Cambridge St",
+  short_name: "A32001",
+  station_id: "8"
+}, {
+  name: "Commonwealth Ave at Agganis Way",
+  short_name: "A32002",
+  station_id: "9"
+}, {
+  name: "B.U. Central - 725 Comm. Ave.",
+  short_name: "A32003",
+  station_id: "10"
+}, {
+  name: "Longwood Ave at Binney St",
+  short_name: "A32004",
+  station_id: "11"
+}, {
+  name: "Ruggles T Stop - Columbus Ave at Melnea Cass Blvd",
+  short_name: "B32002",
+  station_id: "12"
+}, {
+  name: "Boston Medical Center - E Concord St at Harrison Ave",
+  short_name: "C32002",
+  station_id: "13"
+}, {
+  name: "HMS/HSPH - Avenue Louis Pasteur at Longwood Ave",
+  short_name: "B32003",
+  station_id: "14"
+}, {
+  name: "Brighton Mills - 370 Western Ave",
+  short_name: "A32005",
+  station_id: "15"
+}, {
+  name: "Back Bay T Stop - Dartmouth St at Stuart St",
+  short_name: "C32003",
+  station_id: "16"
+}, {
+  name: "Soldiers Field Park - 111 Western Ave",
+  short_name: "A32006",
+  station_id: "17"
+}, {
+  name: "Park Dr at Buswell St",
+  short_name: "A32008",
+  station_id: "19"
+}, {
+  name: "Aquarium T Stop - 200 Atlantic Ave",
+  short_name: "B32004",
+  station_id: "20"
+}, {
+  name: "Prudential Center - 101 Huntington Ave",
+  short_name: "C32007",
+  station_id: "21"
+}, {
+  name: "South Station - 700 Atlantic Ave",
+  short_name: "A32010",
+  station_id: "22"
+}, {
+  name: "Boston City Hall - 28 State St",
+  short_name: "B32008",
+  station_id: "23"
+}, {
+  name: "Seaport Square - Seaport Blvd at Northern Ave",
+  short_name: "B32007",
+  station_id: "24"
+}, {
+  name: "South End Library - Tremont St at W Newton St",
+  short_name: "A32009",
+  station_id: "25"
+}, {
+  name: "Washington St at Waltham St",
+  short_name: "D32002",
+  station_id: "26"
+}, {
+  name: "Roxbury Crossing T Stop - Columbus Ave at Tremont St",
+  short_name: "C32001",
+  station_id: "27"
+}, {
+  name: "Innovation Lab - 125 Western Ave at Batten Way",
+  short_name: "A32011",
+  station_id: "29"
+}, {
+  name: "Brigham Circle - Francis St at Huntington Ave",
+  short_name: "B32013",
+  station_id: "30"
+}, {
+  name: "Seaport Hotel - Congress St at Seaport Ln",
+  short_name: "B32014",
+  station_id: "31"
+}, {
+  name: "Landmark Center - Brookline Ave at Park Dr",
+  short_name: "B32015",
+  station_id: "32"
+}, {
+  name: "Kenmore Square",
+  short_name: "B32010",
+  station_id: "33"
+}, {
+  name: "Arch St at Franklin St",
+  short_name: "D32004",
+  station_id: "35"
+}, {
+  name: "Copley Square - Dartmouth St at Boylston St",
+  short_name: "D32005",
+  station_id: "36"
+}, {
+  name: "New Balance - 20 Guest St",
+  short_name: "D32001",
+  station_id: "37"
+}, {
+  name: "Washington St at Rutland St",
+  short_name: "C32006",
+  station_id: "39"
+}, {
+  name: "Lewis Wharf at Atlantic Ave",
+  short_name: "D32006",
+  station_id: "40"
+}, {
+  name: "Packard's Corner - Commonwealth Ave at Brighton Ave",
+  short_name: "A32012",
+  station_id: "41"
+}, {
+  name: "Boylston St at Arlington St",
+  short_name: "D32007",
+  station_id: "42"
+}, {
+  name: "Rowes Wharf at Atlantic Ave",
+  short_name: "D32008",
+  station_id: "43"
+}, {
+  name: "Congress St at Boston City Hall",
+  short_name: "D32009",
+  station_id: "44"
+}, {
+  name: "Christian Science Plaza - Massachusetts Ave at Westland Ave",
+  short_name: "B32005",
+  station_id: "46"
+}, {
+  name: "Cross St at Hanover St",
+  short_name: "D32010",
+  station_id: "47"
+}, {
+  name: "Post Office Square",
+  short_name: "D32012",
+  station_id: "48"
+}, {
+  name: "Stuart St at Charles St",
+  short_name: "D32011",
+  station_id: "49"
+}, {
+  name: "Boylston St at Berkeley St",
+  short_name: "D32013",
+  station_id: "50"
+}, {
+  name: "Washington St at Lenox St",
+  short_name: "C32005",
+  station_id: "51"
+}, {
+  name: "Newbury St at Hereford St",
+  short_name: "B32000",
+  station_id: "52"
+}, {
+  name: "Beacon St at Massachusetts Ave",
+  short_name: "B32016",
+  station_id: "53"
+}, {
+  name: "Tremont St at West St",
+  short_name: "D32014",
+  station_id: "54"
+}, {
+  name: "Boylston St at Massachusetts Ave",
+  short_name: "B32018",
+  station_id: "55"
+}, {
+  name: "Dudley Square - Bolling Building",
+  short_name: "B32017",
+  station_id: "56"
+}, {
+  name: "Massachusetts Ave at Columbus Ave",
+  short_name: "C32004",
+  station_id: "57"
+}, {
+  name: "Mugar Way at Beacon St",
+  short_name: "D32017",
+  station_id: "58"
+}, {
+  name: "Chinatown Gate Plaza",
+  short_name: "D32015",
+  station_id: "59"
+}, {
+  name: "Charles Circle - Charles St at Cambridge St",
+  short_name: "D32016",
+  station_id: "60"
+}, {
+  name: "Boylston St at Fairfield St",
+  short_name: "C32008",
+  station_id: "61"
+}, {
+  name: "Dorchester Ave at Gillette Park",
+  short_name: "C32009",
+  station_id: "63"
+}, {
+  name: "Congress St at Sleeper St",
+  short_name: "C32010",
+  station_id: "64"
+}, {
+  name: "Boston Convention and Exhibition Center - Summer St at West Side Dr",
+  short_name: "D32018",
+  station_id: "65"
+}, {
+  name: "Commonwealth Ave at Griggs St",
+  short_name: "A32017",
+  station_id: "66"
+}, {
+  name: "MIT at Mass Ave / Amherst St",
+  short_name: "M32006",
+  station_id: "67"
+}, {
+  name: "Central Square at Mass Ave / Essex St",
+  short_name: "M32011",
+  station_id: "68"
+}, {
+  name: "Coolidge Corner - Beacon St at Centre St",
+  short_name: "K32001",
+  station_id: "69"
+}, {
+  name: "Harvard Kennedy School at Bennett St / Eliot St",
+  short_name: "M32016",
+  station_id: "70"
+}, {
+  name: "Conway Park - Somerville Avenue",
+  short_name: "S32004",
+  station_id: "71"
+}, {
+  name: "One Broadway / Kendall Sq at Main St / 3rd St",
+  short_name: "M32003",
+  station_id: "72"
+}, {
+  name: "Harvard Square at Brattle St / Eliot St",
+  short_name: "M32017",
+  station_id: "73"
+}, {
+  name: "Harvard Square at Mass Ave/ Dunster",
+  short_name: "M32018",
+  station_id: "74"
+}, {
+  name: "Lafayette Square at Mass Ave / Main St / Columbia St",
+  short_name: "M32009",
+  station_id: "75"
+}, {
+  name: "Central Sq Post Office / Cambridge City Hall at Mass Ave / Pleasant St",
+  short_name: "M32012",
+  station_id: "76"
+}, {
+  name: "Somerville City Hall",
+  short_name: "S32001",
+  station_id: "77"
+}, {
+  name: "Union Square - Somerville",
+  short_name: "S32002",
+  station_id: "78"
+}, {
+  name: "Beacon St at Washington / Kirkland",
+  short_name: "S32003",
+  station_id: "79"
+}, {
+  name: "MIT Stata Center at Vassar St / Main St",
+  short_name: "M32005",
+  station_id: "80"
+}, {
+  name: "Chinatown T Stop",
+  short_name: "D32019",
+  station_id: "81"
+}, {
+  name: "Beacon St at Tappan St",
+  short_name: "K32002",
+  station_id: "82"
+}, {
+  name: "CambridgeSide Galleria - CambridgeSide PL at Land Blvd",
+  short_name: "M32019",
+  station_id: "84"
+}, {
+  name: "Spaulding Rehabilitation Hospital - Charlestown Navy Yard",
+  short_name: "D32023",
+  station_id: "85"
+}, {
+  name: "Brookline Village - Station Street at MBTA",
+  short_name: "K32003",
+  station_id: "86"
+}, {
+  name: "Harvard University Housing - 115 Putnam Ave at Peabody Terrace",
+  short_name: "M32014",
+  station_id: "87"
+}, {
+  name: "Harvard Law School at Mass Ave / Jarvis St",
+  short_name: "M32020",
+  station_id: "89"
+}, {
+  name: "Lechmere Station at Cambridge St / First St",
+  short_name: "M32001",
+  station_id: "90"
+}, {
+  name: "One Kendall Square at Hampshire St / Portland St",
+  short_name: "M32002",
+  station_id: "91"
+}, {
+  name: "University of Massachusetts Boston - Campus Center",
+  short_name: "C32014",
+  station_id: "92"
+}, {
+  name: "JFK/UMass T Stop",
+  short_name: "C32013",
+  station_id: "93"
+}, {
+  name: "Main St at Austin St",
+  short_name: "D32020",
+  station_id: "94"
+}, {
+  name: "Cambridge St - at Columbia St / Webster Ave",
+  short_name: "M32007",
+  station_id: "95"
+}, {
+  name: "Cambridge Main Library at Broadway / Trowbridge St",
+  short_name: "M32013",
+  station_id: "96"
+}, {
+  name: "Harvard University River Houses at DeWolfe St / Cowperthwaite St",
+  short_name: "M32038",
+  station_id: "97"
+}, {
+  name: "Warren St at Chelsea St",
+  short_name: "D32021",
+  station_id: "98"
+}, {
+  name: "Wilson Square",
+  short_name: "S32005",
+  station_id: "99"
+}, {
+  name: "Davis Square",
+  short_name: "S32006",
+  station_id: "100"
+}, {
+  name: "Ball Sq",
+  short_name: "S32007",
+  station_id: "101"
+}, {
+  name: "Powder House Circle - Nathan Tufts Park",
+  short_name: "S32008",
+  station_id: "102"
+}, {
+  name: "JFK Crossing at Harvard St. / Thorndike St.",
+  short_name: "K32004",
+  station_id: "103"
+}, {
+  name: "Harvard University Radcliffe Quadrangle at Shepard St / Garden St",
+  short_name: "M32024",
+  station_id: "104"
+}, {
+  name: "Lower Cambridgeport at Magazine St / Riverside Rd",
+  short_name: "M32022",
+  station_id: "105"
+}, {
+  name: "Dudley Town Common - Mt Pleasant Ave at Blue Hill Ave",
+  short_name: "C32015",
+  station_id: "106"
+}, {
+  name: "Ames St at Main St",
+  short_name: "M32037",
+  station_id: "107"
+}, {
+  name: "Harvard University / SEAS Cruft-Pierce Halls at 29 Oxford St",
+  short_name: "M32023",
+  station_id: "108"
+}, {
+  name: "West End Park",
+  short_name: "D32022",
+  station_id: "109"
+}, {
+  name: "Harvard University Gund Hall at Quincy St / Kirkland St",
+  short_name: "M32021",
+  station_id: "110"
+}, {
+  name: "Packard Ave at Powderhouse Blvd",
+  short_name: "S32009",
+  station_id: "111"
+}, {
+  name: "Clarendon Hill at Broadway",
+  short_name: "S32010",
+  station_id: "112"
+}, {
+  name: "Andrew T Stop - Dorchester Ave at Dexter St",
+  short_name: "C32012",
+  station_id: "113"
+}, {
+  name: "Teele Square",
+  short_name: "S32011",
+  station_id: "114"
+}, {
+  name: "Porter Square Station",
+  short_name: "M32029",
+  station_id: "115"
+}, {
+  name: "359 Broadway - Broadway at Fayette Street",
+  short_name: "M32026",
+  station_id: "116"
+}, {
+  name: "Binney St / Sixth St",
+  short_name: "M32027",
+  station_id: "117"
+}, {
+  name: "Linear Park - Mass. Ave. at Cameron Ave. ",
+  short_name: "M32025",
+  station_id: "118"
+}, {
+  name: "South Boston Library - 646 E Broadway",
+  short_name: "C32017",
+  station_id: "119"
+}, {
+  name: "Beacon St at Charles St",
+  short_name: "D32024",
+  station_id: "120"
+}, {
+  name: "W Broadway at Dorchester St",
+  short_name: "C32016",
+  station_id: "121"
+}, {
+  name: "Burlington Ave at Brookline Ave",
+  short_name: "B32020",
+  station_id: "122"
+}, {
+  name: "Curtis Hall - South St at Centre St",
+  short_name: "E32001",
+  station_id: "124"
+}, {
+  name: "Hyde Square - Barbara St at Centre St",
+  short_name: "E32003",
+  station_id: "125"
+}, {
+  name: "Egleston Square - Atherton St at Washington St",
+  short_name: "E32004",
+  station_id: "126"
+}, {
+  name: "E Cottage St at Columbia Rd",
+  short_name: "C32018",
+  station_id: "128"
+}, {
+  name: "Hayes Square - Vine St at Moulton St",
+  short_name: "D32026",
+  station_id: "129"
+}, {
+  name: "Uphams Corner",
+  short_name: "C32019",
+  station_id: "130"
+}, {
+  name: "Jackson Square T Stop",
+  short_name: "E32006",
+  station_id: "131"
+}, {
+  name: "Green Street T Stop - Green St at Amory St",
+  short_name: "E32005",
+  station_id: "133"
+}, {
+  name: "ID Building East",
+  short_name: "C32020",
+  station_id: "135"
+}, {
+  name: "ID Building West",
+  short_name: "C32021",
+  station_id: "136"
+}, {
+  name: "Magoun Square at Trum Field",
+  short_name: "S32013",
+  station_id: "137"
+}, {
+  name: "Newmarket Square T Stop - Massachusetts Ave at Newmarket Square",
+  short_name: "C32022",
+  station_id: "138"
+}, {
+  name: "Dana Park",
+  short_name: "M32030",
+  station_id: "139"
+}, {
+  name: "Danehy Park",
+  short_name: "M32031",
+  station_id: "140"
+}, {
+  name: "Kendall Street",
+  short_name: "M32032",
+  station_id: "141"
+}, {
+  name: "Alewife Station at Russell Field",
+  short_name: "M32033",
+  station_id: "142"
+}, {
+  name: "EF - North Point Park",
+  short_name: "M32034",
+  station_id: "143"
+}, {
+  name: "Rogers St &amp; Land Blvd",
+  short_name: "M32035",
+  station_id: "144"
+}, {
+  name: "Rindge Avenue - O'Neill Library",
+  short_name: "M32036",
+  station_id: "145"
+}, {
+  name: "Murphy Skating Rink - 1880 Day Blvd",
+  short_name: "C32023",
+  station_id: "146"
+}, {
+  name: "175 N Harvard St",
+  short_name: "A32019",
+  station_id: "149"
+}, {
+  name: "State Street at Channel Center",
+  short_name: "C32024",
+  station_id: "150"
+}, {
+  name: "Surface Rd at India St",
+  short_name: "A32013",
+  station_id: "151"
+}, {
+  name: "Ink Block - Harrison Ave at Herald St",
+  short_name: "C32025",
+  station_id: "152"
+}, {
+  name: "Somerville Hospital",
+  short_name: "S32020",
+  station_id: "156"
+}, {
+  name: "Seaport Blvd at Sleeper St",
+  short_name: "C32036",
+  station_id: "157"
+}, {
+  name: "S Huntington Ave at Heath St",
+  short_name: "E32007",
+  station_id: "159"
+}, {
+  name: "Wentworth Institute of Technology - Huntington Ave at Vancouver St",
+  short_name: "B32021",
+  station_id: "160"
+}, {
+  name: "W Broadway at D St",
+  short_name: "C32029",
+  station_id: "161"
+}, {
+  name: "Franklin Park - Seaver St at Humboldt Ave",
+  short_name: "C32027",
+  station_id: "162"
+}, {
+  name: "The Lawn on D",
+  short_name: "C32028",
+  station_id: "163"
+}, {
+  name: "Ryan Playground - Dorchester Ave at Harbor View St",
+  short_name: "C32031",
+  station_id: "167"
+}, {
+  name: "Edwards Playground - Main St at Eden St",
+  short_name: "A32022",
+  station_id: "169"
+}, {
+  name: "Franklin Park Zoo - Franklin Park Rd at Blue Hill Ave",
+  short_name: "C32030",
+  station_id: "170"
+}, {
+  name: "Bunker Hill Community College",
+  short_name: "A32023",
+  station_id: "171"
+}, {
+  name: "Savin Hill T Stop - S Sydney St at Bay St",
+  short_name: "C32033",
+  station_id: "173"
+}, {
+  name: "Washington St at Brock St",
+  short_name: "D32029",
+  station_id: "174"
+}, {
+  name: "Brighton Center - Washington St at Cambridge St",
+  short_name: "D32028",
+  station_id: "175"
+}, {
+  name: "Lesley University",
+  short_name: "M32039",
+  station_id: "176"
+}, {
+  name: "University Park",
+  short_name: "M32040",
+  station_id: "177"
+}, {
+  name: "MIT Pacific St at Purrington St",
+  short_name: "M32041",
+  station_id: "178"
+}, {
+  name: "MIT Vassar St",
+  short_name: "M32042",
+  station_id: "179"
+}, {
+  name: "Mt Auburn",
+  short_name: "M32043",
+  station_id: "180"
+}, {
+  name: "Huron Ave At Vassal Lane",
+  short_name: "M32044",
+  station_id: "181"
+}, {
+  name: "Museum of Science",
+  short_name: "M32045",
+  station_id: "182"
+}, {
+  name: "Alewife MBTA at Steel Place",
+  short_name: "M32046",
+  station_id: "183"
+}, {
+  name: "Sidney Research Campus/Erie Street at Waverly",
+  short_name: "M32047",
+  station_id: "184"
+}, {
+  name: "Third at Binney",
+  short_name: "M32048",
+  station_id: "185"
+}, {
+  name: "Congress St at Northern Ave",
+  short_name: "C32032",
+  station_id: "186"
+}, {
+  name: "Cypress St at Clark Playground",
+  short_name: "K32009",
+  station_id: "187"
+}, {
+  name: "Foss Park",
+  short_name: "S32015",
+  station_id: "188"
+}, {
+  name: "Kendall T",
+  short_name: "M32004",
+  station_id: "189"
+}, {
+  name: "Nashua Street at Red Auerbach Way",
+  short_name: "A32025",
+  station_id: "190"
+}, {
+  name: "Tappan St at Brookline Hills MBTA",
+  short_name: "K32008",
+  station_id: "191"
+}, {
+  name: "Purchase St at Pearl St",
+  short_name: "A32026",
+  station_id: "192"
+}, {
+  name: "Brookline Town Hall",
+  short_name: "K32005",
+  station_id: "193"
+}, {
+  name: "Broadway St at Mt Pleasant St",
+  short_name: "S32014",
+  station_id: "194"
+}, {
+  name: "Child Street at Brian P. Murphy Staircase",
+  short_name: "M32049",
+  station_id: "195"
+}, {
+  name: "Roxbury YMCA - Warren St at MLK Blvd",
+  short_name: "B32022",
+  station_id: "196"
+}, {
+  name: "MLK Blvd at Washington St",
+  short_name: "B32023",
+  station_id: "197"
+}, {
+  name: "Uphams Corner T Stop - Magnolia St at Dudley St",
+  short_name: "B32025",
+  station_id: "199"
+}, {
+  name: "Washington St at Melnea Cass Blvd",
+  short_name: "B32026",
+  station_id: "200"
+}, {
+  name: "NCAAA - Walnut Ave at Crawford St",
+  short_name: "B32027",
+  station_id: "201"
+}, {
+  name: "Grove Hall Library - 41 Geneva Ave",
+  short_name: "B32028",
+  station_id: "202"
+}, {
+  name: "Columbia Rd at Ceylon St",
+  short_name: "B32029",
+  station_id: "203"
+}, {
+  name: "Walnut Ave at Warren St",
+  short_name: "B32030",
+  station_id: "204"
+}, {
+  name: "Bowdoin St at Quincy St",
+  short_name: "B32031",
+  station_id: "205"
+}, {
+  name: "Government Center - Cambridge St at Court St",
+  short_name: "B32032",
+  station_id: "206"
+}, {
+  name: "Oak Square - 615 Washington St",
+  short_name: "D32031",
+  station_id: "208"
+}, {
+  name: "Bennington St at Byron St",
+  short_name: "A32028",
+  station_id: "210"
+}, {
+  name: "Piers Park",
+  short_name: "A32029",
+  station_id: "211"
+}, {
+  name: "Maverick Square - Lewis Mall",
+  short_name: "A32030",
+  station_id: "212"
+}, {
+  name: "East Boston Neighborhood Health Center - 20 Maverick Square",
+  short_name: "A32031",
+  station_id: "213"
+}, {
+  name: "Airport T Stop - Bremen St at Brooks St",
+  short_name: "A32032",
+  station_id: "214"
+}, {
+  name: "The Eddy - New St at Sumner St",
+  short_name: "A32033",
+  station_id: "215"
+}, {
+  name: "Glendon St at Condor St",
+  short_name: "A32034",
+  station_id: "216"
+}, {
+  name: "Orient Heights T Stop - Bennington St at Saratoga St",
+  short_name: "A32035",
+  station_id: "217"
+}, {
+  name: "Watermark Seaport - Boston Wharf Rd at Seaport Blvd",
+  short_name: "C32034",
+  station_id: "218"
+}, {
+  name: "Boston East - 126 Border St",
+  short_name: "A32036",
+  station_id: "219"
+}, {
+  name: "Verizon Innovation Hub 10 Ware Street",
+  short_name: "M32050",
+  station_id: "221"
+}, {
+  name: "Troy Boston",
+  short_name: "C32035",
+  station_id: "222"
+}, {
+  name: "Fresh Pond Reservation",
+  short_name: "M32051",
+  station_id: "224"
+}, {
+  name: "Cambridge Dept. of Public Works -147 Hampshire St.",
+  short_name: "M32052",
+  station_id: "225"
+}, {
+  name: "Commonwealth Ave At Babcock St",
+  short_name: "K32006",
+  station_id: "226"
+}, {
+  name: "Silber Way",
+  short_name: "D32032",
+  station_id: "227"
+}, {
+  name: "One Memorial Drive",
+  short_name: "M32053",
+  station_id: "228"
+}, {
+  name: "Four Corners - 157 Washington St",
+  short_name: "C32037",
+  station_id: "232"
+}, {
+  name: "St Mary's",
+  short_name: "K32007",
+  station_id: "233"
+}, {
+  name: "Broadway at Central St",
+  short_name: "S32016",
+  station_id: "234"
+}, {
+  name: "East Somerville Library (Broadway and Illinois)",
+  short_name: "S32017",
+  station_id: "235"
+}, {
+  name: "Assembly Square T",
+  short_name: "S32018",
+  station_id: "236"
+}, {
+  name: "Community Path at Cedar Street",
+  short_name: "S32022",
+  station_id: "239"
+}, {
+  name: "Park St at Norwell St",
+  short_name: "C32039",
+  station_id: "255"
+}, {
+  name: "Gallivan Blvd at Adams St",
+  short_name: "C32040",
+  station_id: "258"
+}, {
+  name: "Washington St at Bowdoin St",
+  short_name: "C32042",
+  station_id: "259"
+}, {
+  name: "Fields Corner T Stop",
+  short_name: "C32041",
+  station_id: "260"
+}, {
+  name: "Ashmont T Stop",
+  short_name: "C32062",
+  station_id: "271"
+}, {
+  name: "Shawmut T Stop",
+  short_name: "E32009",
+  station_id: "272"
+}, {
+  name: "Forest Hills",
+  short_name: "E32010",
+  station_id: "273"
+}, {
+  name: "Williams St at Washington St",
+  short_name: "D32040",
+  station_id: "279"
+}, {
+  name: "Main St at Baldwin St",
+  short_name: "D32036",
+  station_id: "280"
+}, {
+  name: "Stony Brook T Stop",
+  short_name: "D32041",
+  station_id: "282"
+}, {
+  name: "Farragut Rd at E. 6th St",
+  short_name: "C32051",
+  station_id: "296"
+}, {
+  name: "Ames St at Broadway",
+  short_name: "M32059",
+  station_id: "318"
+}, {
+  name: "84 Cambridgepark Dr",
+  short_name: "M32058",
+  station_id: "319"
+}, {
+  name: "Main St at Thompson Sq",
+  short_name: "D32038",
+  station_id: "327"
+}, {
+  name: "Grove St at Community Path",
+  short_name: "S32019",
+  station_id: "328"
+}, {
+  name: "Washington St at Myrtle St",
+  short_name: "S32021",
+  station_id: "329"
+}, {
+  name: "30 Dane St",
+  short_name: "S32023",
+  station_id: "330"
+}, {
+  name: "Huntington Ave at Mass Art",
+  short_name: "B32033",
+  station_id: "331"
+}, {
+  name: "Harvard Ave at Brainerd Rd",
+  short_name: "D32035",
+  station_id: "332"
+}, {
+  name: "699 Mt Auburn St",
+  short_name: "M32054",
+  station_id: "333"
+}, {
+  name: "Mass Ave at Hadley/Walden",
+  short_name: "M32056",
+  station_id: "334"
+}, {
+  name: "Harvard St at Greene-Rose Heritage Park",
+  short_name: "M32055",
+  station_id: "335"
+}, {
+  name: "Mattapan T Stop",
+  short_name: "C32045",
+  station_id: "336"
+}, {
+  name: "Roslindale Village - South St",
+  short_name: "C32047",
+  station_id: "337"
+}, {
+  name: "Commonwealth Ave at Kelton St",
+  short_name: "D32034",
+  station_id: "338"
+}, {
+  name: "Archdale Rd at Washington St",
+  short_name: "C32048",
+  station_id: "339"
+}, {
+  name: "Blue Hill Ave at Almont St",
+  short_name: "C32044",
+  station_id: "340"
+}, {
+  name: "Roslindale Village - Washington St",
+  short_name: "C32046",
+  station_id: "341"
+}, {
+  name: "Boylston St at Jersey St",
+  short_name: "B32034",
+  station_id: "342"
+}, {
+  name: "Morton St T",
+  short_name: "C23045",
+  station_id: "343"
+}, {
+  name: "Commonwealth Ave at Chiswick Rd",
+  short_name: "D32033",
+  station_id: "344"
+}, {
+  name: "Park Plaza at Charles St S.",
+  short_name: "D32042",
+  station_id: "345"
+}, {
+  name: "Cleveland Circle",
+  short_name: "B32035",
+  station_id: "346"
+}, {
+  name: "Thetford Ave at Norfolk St",
+  short_name: "C32049",
+  station_id: "347"
+}, {
+  name: "Talbot Ave At Blue Hill Ave",
+  short_name: "C32043",
+  station_id: "348"
+}, {
+  name: "Washington St at Talbot Ave",
+  short_name: "C32038",
+  station_id: "349"
+}, {
+  name: "Codman Square Library",
+  short_name: "C32055",
+  station_id: "350"
+}, {
+  name: "Faneuil St at Arlington St",
+  short_name: "A32038",
+  station_id: "351"
+}, {
+  name: "Ring Rd",
+  short_name: "C32058",
+  station_id: "352"
+}, {
+  name: "Mattapan Library",
+  short_name: "C32050",
+  station_id: "353"
+}, {
+  name: "Washington St at Egremont Rd",
+  short_name: "A32037",
+  station_id: "354"
+}, {
+  name: "Bennington St at Constitution Beach",
+  short_name: "A32039",
+  station_id: "355"
+}, {
+  name: "Charlestown Navy Yard",
+  short_name: "D32039",
+  station_id: "356"
+}, {
+  name: "Centre St at Seaverns Ave",
+  short_name: "E32008",
+  station_id: "357"
+}, {
+  name: "Medford St at Charlestown BCYF",
+  short_name: "D32037",
+  station_id: "358"
+}, {
+  name: "One Brigham Circle",
+  short_name: "B32036",
+  station_id: "359"
+}, {
+  name: "Bartlett St at John Elliot Sq",
+  short_name: "B32055",
+  station_id: "360"
+}, {
+  name: "Deerfield St at Commonwealth Ave",
+  short_name: "B32037",
+  station_id: "361"
+}, {
+  name: "Columbia Rd at Tierney Community Center",
+  short_name: "C32052",
+  station_id: "362"
+}, {
+  name: "Harrison Ave at Mullins Way",
+  short_name: "C32057",
+  station_id: "363"
+}, {
+  name: "Tremont St at Northampton St",
+  short_name: "C32056",
+  station_id: "364"
+}, {
+  name: "Harrison Ave at Bennet St",
+  short_name: "D32043",
+  station_id: "365"
+}, {
+  name: "Broadway T Stop",
+  short_name: "C32053",
+  station_id: "366"
+}, {
+  name: "Vassal Lane at Tobin/VLUS",
+  short_name: "M32057",
+  station_id: "367"
+}, {
+  name: "Blue Hill Ave at Southwood St",
+  short_name: "B32057",
+  station_id: "368"
+}, {
+  name: "Boston Public Market",
+  short_name: "D32044",
+  station_id: "369"
+}, {
+  name: "Dartmouth St at Newbury St",
+  short_name: "D32045",
+  station_id: "370"
+}, {
+  name: "700 Huron Ave",
+  short_name: "M32060",
+  station_id: "371"
+}, {
+  name: "Boylston St at Exeter St",
+  short_name: "D32046",
+  station_id: "372"
+}, {
+  name: "Belgrade Ave at Walworth St",
+  short_name: "C32059",
+  station_id: "373"
+}, {
+  name: "Tremont St at Hamilton Pl",
+  short_name: "B32056",
+  station_id: "374"
+}, {
+  name: "Honan Library",
+  short_name: "A32040",
+  station_id: "376"
+}, {
+  name: "Perry Park",
+  short_name: "S32034",
+  station_id: "377"
+}, {
+  name: "191 Beacon St",
+  short_name: "S32035",
+  station_id: "378"
+}, {
+  name: "Tremont St at W. Dedham St",
+  short_name: "C32060",
+  station_id: "379"
+}, {
+  name: "Mass Ave at Albany St",
+  short_name: "M32061",
+  station_id: "380"
+}, {
+  name: "Inman Square at Springfield St.",
+  short_name: "M32062",
+  station_id: "381"
+}, {
+  name: "Clarendon St at Newbury St",
+  short_name: "D32047",
+  station_id: "384"
+}, {
+  name: "Albany St at E. Brookline St",
+  short_name: "C32061",
+  station_id: "385"
+}, {
+  name: "Sennott Park Broadway at Norfolk Street",
+  short_name: "M32063",
+  station_id: "386"
+}, {
+  name: "7 Acre Park",
+  short_name: "V32001",
+  station_id: "387"
+}, {
+  name: "Everett Square (Broadway at Chelsea St)",
+  short_name: "V32003",
+  station_id: "389"
+}, {
+  name: "Broadway at Lynde St",
+  short_name: "V32004",
+  station_id: "390"
+}, {
+  name: "Encore",
+  short_name: "V32005",
+  station_id: "391"
+}, {
+  name: "Glendale Square (Ferry St at Broadway)",
+  short_name: "V32006",
+  station_id: "392"
+}, {
+  name: "Swan St. Park",
+  short_name: "V32007",
+  station_id: "393"
+}, {
+  name: "Broadway at Maple St",
+  short_name: "V32008",
+  station_id: "394"
+}, {
+  name: "Chelsea St at Vine St",
+  short_name: "V32009",
+  station_id: "395"
+}, {
+  name: "Wasgott Playground",
+  short_name: "V32010",
+  station_id: "396"
+}, {
+  name: "Broadway at Beacham St",
+  short_name: "V32011",
+  station_id: "397"
+}, {
+  name: "75 Binney St",
+  short_name: "M32064",
+  station_id: "398"
+}, {
+  name: "Shawmut Ave at Oak St W",
+  short_name: "D32048",
+  station_id: "399"
+}, {
+  name: "Lansdowne T Stop",
+  short_name: "B32058",
+  station_id: "400"
+}, {
+  name: "High St at Cypress St",
+  short_name: "K32010",
+  station_id: "401"
+}, {
+  name: "Washington Sq",
+  short_name: "K32011",
+  station_id: "402"
+}, {
+  name: "Marion St at Harvard St",
+  short_name: "K32012",
+  station_id: "403"
+}, {
+  name: "Mass Ave T Station",
+  short_name: "C32063",
+  station_id: "404"
+}, {
+  name: "Sydney St at Carson St",
+  short_name: "C32064",
+  station_id: "405"
+}, {
+  name: "Somerville City Hall Annex",
+  short_name: "S32036",
+  station_id: "406"
+}, {
+  name: "Craigie at Summer St",
+  short_name: "S32037",
+  station_id: "407"
+}, {
+  name: "Edgerly Education Center",
+  short_name: "S32038",
+  station_id: "408"
+}, {
+  name: "Elm St at White St",
+  short_name: "S32039",
+  station_id: "409"
+}, {
+  name: "Adams St at Lonsdale St",
+  short_name: "C32065",
+  station_id: "410"
+}, {
+  name: "Washington St at Peters Park",
+  short_name: "C32067",
+  station_id: "412"
+}, {
+  name: "Kennedy-Longfellow School 158 Spring St",
+  short_name: "M32065",
+  station_id: "413"
+}, {
+  name: "Discovery Park - 30 Acorn Park Drive",
+  short_name: "M32066",
+  station_id: "414"
+}, {
+  name: "Stuart St at Berkeley St",
+  short_name: "D32049",
+  station_id: "415"
+}, {
+  name: "Blossom St at Charles St",
+  short_name: "D32050",
+  station_id: "416"
+}, {
+  name: "Columbus Ave at W. Canton St",
+  short_name: "C32077",
+  station_id: "417"
+}, {
+  name: "Central Square East Boston",
+  short_name: "A32041",
+  station_id: "419"
+}, {
+  name: "Charles St at Pinckney St",
+  short_name: "D32051",
+  station_id: "420"
+}, {
+  name: "Northbourne Rd at Hyde Park Ave",
+  short_name: "C32078",
+  station_id: "421"
+}, {
+  name: "American Legion Hwy at Cummins Hwy",
+  short_name: "C32079",
+  station_id: "422"
+}, {
+  name: "Mt. Hope St at Hyde Park Ave",
+  short_name: "C32080",
+  station_id: "423"
+}, {
+  name: "Jamaica St at South St",
+  short_name: "D32052",
+  station_id: "424"
+}, {
+  name: "The Dimock Center",
+  short_name: "E32011",
+  station_id: "425"
+}, {
+  name: "Surface Rd at Summer St",
+  short_name: "A32042",
+  station_id: "426"
+}, {
+  name: "Washington St at Denton Terr",
+  short_name: "C32081",
+  station_id: "427"
+}, {
+  name: "Western Ave at Richardson St",
+  short_name: "A32043",
+  station_id: "428"
+}, {
+  name: "Washington St at Walsh Playground",
+  short_name: "C32083",
+  station_id: "430"
+}, {
+  name: "Washington St at Fuller St",
+  short_name: "C32084",
+  station_id: "431"
+}, {
+  name: "Centre St at W. Roxbury Post Office",
+  short_name: "C32085",
+  station_id: "432"
+}, {
+  name: "Centre St at Parkway YMCA",
+  short_name: "C32086",
+  station_id: "433"
+}, {
+  name: "Spring St at Powell St",
+  short_name: "C32087",
+  station_id: "434"
+}, {
+  name: "Central Ave at River St",
+  short_name: "C32088",
+  station_id: "435"
+}, {
+  name: "Maverick St at Massport Path",
+  short_name: "A32044",
+  station_id: "436"
+}, {
+  name: "Berkshire Street at Cambridge Street",
+  short_name: "M32067",
+  station_id: "437"
+}, {
+  name: "Boston Landing",
+  short_name: "A32045",
+  station_id: "440"
+}, {
+  name: "Sullivan Square",
+  short_name: "D32053",
+  station_id: "441"
+}, {
+  name: "Hyde Park Ave at Walk Hill St",
+  short_name: "C32089",
+  station_id: "442"
+}, {
+  name: "Whittier St Health Center",
+  short_name: "B32059",
+  station_id: "443"
+}, {
+  name: "Geiger Gibson Community Health Center",
+  short_name: "C32090",
+  station_id: "445"
+}, {
+  name: "700 Commonwealth Ave.",
+  short_name: "B32060",
+  station_id: "446"
+}, {
+  name: "The Overlook at St. Gabriel's",
+  short_name: "D32054",
+  station_id: "447"
+}, {
+  name: "Hale Park",
+  short_name: "V32012",
+  station_id: "448"
+}, {
+  name: "1200 Beacon St",
+  short_name: "K32015",
+  station_id: "452"
+}, {
+  name: "Boylston St at Dartmouth St",
+  short_name: "D32055",
+  station_id: "454"
+}, {
+  name: "Coolidge Sq.",
+  short_name: "W32001",
+  station_id: "455"
+}, {
+  name: "Graham and Parks School – Linnaean St at Walker St",
+  short_name: "M32068",
+  station_id: "456"
+}, {
+  name: "Watertown Sq",
+  short_name: "W32002",
+  station_id: "458"
+}, {
+  name: "Canal St at Causeway St",
+  short_name: "A32046",
+  station_id: "459"
+}, {
+  name: "Broad St at Central St",
+  short_name: "A32047",
+  station_id: "460"
+}, {
+  name: "Railroad Lot and Minuteman Bikeway",
+  short_name: "L32001",
+  station_id: "461"
+}, {
+  name: "Linwood St at Minuteman Bikeway",
+  short_name: "L32002",
+  station_id: "462"
+}, {
+  name: "Smith Pl at Wilson Rd",
+  short_name: "M32069",
+  station_id: "463"
+}, {
+  name: "Mass Ave at Grafton St",
+  short_name: "L32003",
+  station_id: "464"
+}, {
+  name: "Broadway at Grafton St",
+  short_name: "L32004",
+  station_id: "465"
+}, {
+  name: "Centre St at Washington St",
+  short_name: "N32000",
+  station_id: "466"
+}, {
+  name: "Washington St at Crafts St",
+  short_name: "N32001",
+  station_id: "467"
+}, {
+  name: "Nonantum Library",
+  short_name: "N32002",
+  station_id: "468"
+}, {
+  name: "Bacon St at Washington St",
+  short_name: "N32003",
+  station_id: "469"
+}, {
+  name: "Union St at Herrick Rd – Newton Centre Green Line",
+  short_name: "N32004",
+  station_id: "470"
+}, {
+  name: "MIT Carleton St at Amherst St",
+  short_name: "M32070",
+  station_id: "471"
+}, {
+  name: "MIT Hayward St at Amherst St",
+  short_name: "M32071",
+  station_id: "472"
+}, {
+  name: "West Newton",
+  short_name: "N32005",
+  station_id: "473"
+}, {
+  name: "Watertown St at Albemarle Rd",
+  short_name: "N32006",
+  station_id: "474"
+}, {
+  name: "Arsenal Yards",
+  short_name: "W32004",
+  station_id: "475"
+}, {
+  name: "Marion St at White St",
+  short_name: "A32048",
+  station_id: "477"
+}, {
+  name: "Gove St at Orleans St",
+  short_name: "A32049",
+  station_id: "478"
+}, {
+  name: "Galileo Galilei Way at Main Street",
+  short_name: "M32072",
+  station_id: "479"
+}, {
+  name: "Thorndike Field at Minuteman Bikeway",
+  short_name: "L32005",
+  station_id: "480"
+}, {
+  name: "645 Summer St",
+  short_name: "C32091",
+  station_id: "481"
+}, {
+  name: "Kearins Playground",
+  short_name: "V32013",
+  station_id: "482"
+}, {
+  name: "Porzio Park",
+  short_name: "A32050",
+  station_id: "483"
+}, {
+  name: "Revere Public Library",
+  short_name: "R32007",
+  station_id: "484"
+}, {
+  name: "Revere City Hall",
+  short_name: "R32006",
+  station_id: "485"
+}, {
+  name: "Langley Lot",
+  short_name: "N32008",
+  station_id: "486"
+}, {
+  name: "Community Path at Lowell St",
+  short_name: "S32040",
+  station_id: "487"
+}, {
+  name: "Martha Eliot Health Center",
+  short_name: "E32012",
+  station_id: "488"
+}, {
+  name: "Day Sq",
+  short_name: "A32051",
+  station_id: "489"
+}, {
+  name: "Blue Hill Ave at Havelock St",
+  short_name: "C32092",
+  station_id: "490"
+}, {
+  name: "Harrison Ave at E. Dedham St",
+  short_name: "C32093",
+  station_id: "491"
+}, {
+  name: "Harvard Stadium: N. Harvard St at Soldiers Field Rd",
+  short_name: "A32052",
+  station_id: "492"
+}, {
+  name: "2 Hummingbird Lane at Olmsted Green",
+  short_name: "C32094",
+  station_id: "493"
+}, {
+  name: "Watertown Town Hall",
+  short_name: "W32005",
+  station_id: "494"
+}, {
+  name: "Union Square East",
+  short_name: "S32041",
+  station_id: "495"
+}, {
+  name: "160 Arsenal",
+  short_name: "W32006",
+  station_id: "502"
+}, {
+  name: "Cary Square",
+  short_name: "H32001",
+  station_id: "503"
+}, {
+  name: "Bellingham Square",
+  short_name: "H32002",
+  station_id: "504"
+}, {
+  name: "Chelsea Square",
+  short_name: "H32003",
+  station_id: "505"
+}, {
+  name: "Broadway at Gerrish Ave",
+  short_name: "H32004",
+  station_id: "506"
+}, {
+  name: "Chelsea Station",
+  short_name: "H32005",
+  station_id: "507"
+}, {
+  name: "855 Broadway",
+  short_name: "H32006",
+  station_id: "508"
+}, {
+  name: "Nichols Ave. at Watertown Greenway",
+  short_name: "W32007",
+  station_id: "509"
+}, {
+  name: "Mass Ave at Broadway",
+  short_name: "L32006",
+  station_id: "510"
+}, {
+  name: "Bellevue T Stop",
+  short_name: "C32095",
+  station_id: "511"
+}, {
+  name: "Knoll St at Centre St",
+  short_name: "C32096",
+  station_id: "512"
+}, {
+  name: "Roseland St At Dorchester Ave",
+  short_name: "C32097",
+  station_id: "513"
+}, {
+  name: "Gilman Square T at Medford St",
+  short_name: "S32046",
+  station_id: "514"
+}, {
+  name: "955 Mass Ave",
+  short_name: "M32073",
+  station_id: "515"
+}, {
+  name: "Salem Ferry Landing",
+  short_name: "T32001",
+  station_id: "516"
+}, {
+  name: "Salem Willows Park",
+  short_name: "T32002",
+  station_id: "517"
+}, {
+  name: "Shetland Park - Congress at Peabody St",
+  short_name: "T32003",
+  station_id: "518"
+}, {
+  name: "Mayor Salvo Path at Mill St",
+  short_name: "T32004",
+  station_id: "519"
+}, {
+  name: "Salem MBTA - Washington at Federal St",
+  short_name: "T32005",
+  station_id: "520"
+}, {
+  name: "Lafayette at Leach St",
+  short_name: "T32006",
+  station_id: "521"
+}, {
+  name: "Salem State University - Bike Path at Loring Ave",
+  short_name: "T32007 ",
+  station_id: "522"
+}, {
+  name: "Boston College T",
+  short_name: "N32009",
+  station_id: "523"
+}, {
+  name: "Newton Highlands T",
+  short_name: "N32010",
+  station_id: "524"
+}, {
+  name: "California at Chapel",
+  short_name: "N32011",
+  station_id: "525"
+}, {
+  name: "Beacon at Walnut",
+  short_name: "N32012",
+  station_id: "526"
+}, {
+  name: "Newton Library",
+  short_name: "N32013",
+  station_id: "527"
+}, {
+  name: "Washington St at Walnut St",
+  short_name: "N32014",
+  station_id: "528"
+}, {
+  name: "One Beacon St",
+  short_name: "B32061",
+  station_id: "529"
+}, {
+  name: "Foley St at Grand Union Blvd",
+  short_name: "S32047",
+  station_id: "530"
+}, {
+  name: "Harvard St and Stedman St",
+  short_name: "K32017",
+  station_id: "531"
+}, {
+  name: "Concord Ave at Spinelli Place",
+  short_name: "M32074",
+  station_id: "532"
+}, {
+  name: "Danehy Park at New Street",
+  short_name: "M32075",
+  station_id: "533"
+}, {
+  name: "Adams Branch Library",
+  short_name: "C32098",
+  station_id: "534"
+}, {
+  name: "Auburndale",
+  short_name: "N32015",
+  station_id: "535"
+}, {
+  name: "Clinton St at North St",
+  short_name: "D32057",
+  station_id: "536"
+}, {
+  name: "Charles River Greenway - California St. at Fifth Ave",
+  short_name: "W32008",
+  station_id: "537"
+}, {
+  name: "Circuit Drive at American Legion Hwy",
+  short_name: "C32099",
+  station_id: "538"
+}, {
+  name: "Walnut Ave at School St",
+  short_name: "C32102",
+  station_id: "539"
+}, {
+  name: "Sumner St at Shirley Ave",
+  short_name: "R32001",
+  station_id: "540"
+}, {
+  name: "Orr Sq (Shirley Ave)",
+  short_name: "R32002",
+  station_id: "541"
+}, {
+  name: "Hyde Park Ave at Arlington St",
+  short_name: "C32100",
+  station_id: "542"
+}, {
+  name: "American Legion Hwy at Hyde Park Ave",
+  short_name: "C32101",
+  station_id: "543"
+}, {
+  name: "Old Morse Park at Putnam Ave",
+  short_name: "M32076",
+  station_id: "544"
+}, {
+  name: "Morton St at Gallivan Blvd",
+  short_name: "C32103",
+  station_id: "545"
+}, {
+  name: "Cleary Sq",
+  short_name: "C32104",
+  station_id: "546"
+}, {
+  name: "606 American Legion Hwy at Canterbury St",
+  short_name: "C32105",
+  station_id: "547"
+}, {
+  name: "555 Metropolitan Ave",
+  short_name: "C32106",
+  station_id: "548"
+}, {
+  name: "Valenti Way at Haverhill St",
+  short_name: "A32053",
+  station_id: "549"
+}, {
+  name: "Somerville High School &amp; Central Library",
+  short_name: "S32048",
+  station_id: "550"
+}, {
+  name: "Cambridge Crossing at North First Street",
+  short_name: "M32077",
+  station_id: "553"
+}, {
+  name: "Forsyth St at Huntington Ave",
+  short_name: "B32062",
+  station_id: "554"
+}, {
+  name: "Hyde Park Library",
+  short_name: "E32013",
+  station_id: "555"
+}, {
+  name: "Ross Playground",
+  short_name: "E32014",
+  station_id: "556"
+}, {
+  name: "Galileo Galilei Way at Fulkerson St/Binney St",
+  short_name: "M32078",
+  station_id: "557"
+}, {
+  name: "St. Alphonsus St at Tremont St",
+  short_name: "B32063",
+  station_id: "558"
+}, {
+  name: "Centre St at Commonwealth Ave",
+  short_name: "N32018",
+  station_id: "559"
+}, {
+  name: "Flat 9 at Whittier",
+  short_name: "B32064",
+  station_id: "560"
+}, {
+  name: "Pier 4 Blvd at Autumn Ln",
+  short_name: "C32107",
+  station_id: "561"
+}, {
+  name: "Hawthorne Boulevard",
+  short_name: "T32008",
+  station_id: "562"
+}, {
+  name: "Addison St at Saratoga St",
+  short_name: "A32054",
+  station_id: "563"
+}, {
+  name: "Raymond Park at Walden St",
+  short_name: "M32079",
+  station_id: "564"
+}, {
+  name: "Wellington MBTA",
+  short_name: "V32014",
+  station_id: "565"
+}, {
+  name: "Main Street/Albany Street/Technology Square",
+  short_name: "M32080",
+  station_id: "566"
+}
