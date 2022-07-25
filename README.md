@@ -22,7 +22,7 @@ To use this module, add it to the modules array in the `config/config.js` file:
 ```js
 modules: [
     {
-        module: 'MMM-Bluebike',
+        module: 'MMM-Bluebikes',
         position: 'bottom_left', // This can be any of the regions.
         config: {
             station_number: 'your station number',
