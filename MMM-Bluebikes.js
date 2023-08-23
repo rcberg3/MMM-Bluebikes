@@ -84,7 +84,7 @@ Module.register("MMM-Bluebikes", {
 		ebikes = ''
 		
 		function findStation(station) {
-			return station.station_id == station_number_var;
+			return station.legacy_id == station_number_var;
 		}
 
 		fetch(bb_url)
